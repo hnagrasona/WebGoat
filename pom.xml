@@ -536,6 +536,11 @@
             <artifactId>webdrivermanager</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+                <groupId>ca.uhn.hapi.fhir</groupId>
+                <artifactId>org.hl7.fhir.utilities</artifactId>
+                <version>6.7.7</version>
+        </dependency>
     </dependencies>
 
     <build>
